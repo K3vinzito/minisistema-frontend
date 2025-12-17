@@ -1,7 +1,7 @@
 /* ================================================================
    GASTOS — DETALLES (OPTIMIZADO)
 ================================================================ */
-const API_BASE = "http://localhost:3001";
+const API_BASE = "https://minisistema-production.up.railway.app/";
 
 import { dom } from "./core.js";
 

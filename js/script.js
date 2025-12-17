@@ -1,7 +1,7 @@
 /* ================================================================
    MINI SISTEMA AGRÍCOLA — SCRIPT PRINCIPAL (ESTABLE)
 ================================================================ */
-const API_BASE = "http://localhost:3001";
+const API_BASE = "https://minisistema-production.up.railway.app/";
 
 import { state, dom, num, showLoader, hideLoader } from "./core.js";
 import { cargarDetallesProduccion } from "./produccion.js";
